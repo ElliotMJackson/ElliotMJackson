@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Elliot</h1>
 <h3 align="center">🇦🇺 Software engineer based in Toronto, Canada 🇨🇦</h3>
 
-- 🔭 I’m currently working on [Buf](http://buf.build)
+- 🔭 I’m currently working at [Buf](http://buf.build)
 
-- 🤝 I’m looking for help with [Protoc-gen-validate](https://github.com/envoyproxy/protoc-gen-validate)
+- 🤝 I’m looking for help with:
+    - [protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate)
+    - [protovalidate-go](https://github.com/bufbuild/protovalidate-go)
 
 - 💬 Ask me about **Go, protobuf & [Buf](http://buf.build)**
 
